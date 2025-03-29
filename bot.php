@@ -4,8 +4,8 @@ date_Default_timezone_set("Asia/Tashkent");
 
 require_once "sql.php";
 
-const API_KEY = "7243996968:AAHrjWqq6nL8ONy73cZ26qYq8KXPk2sYRAA";
-$abduvositin = 6815977965;
+const API_KEY = "API_KEY";
+$abduvositin = ADMIN_ID;
 $owners = [$abduvositin];
 
 $bot = bot("getme")->result->username;
