@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect("localhost", "anonim", "nK0pF6cT3t", "anonim");
+$connect = mysqli_connect("localhost", "DB_NAME", "DB_PASS", "DB_USER");
 
 if ($connect) {
     echo "Ulandi<br>";
