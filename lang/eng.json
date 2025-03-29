@@ -1,1 +1,31 @@
+{
+    "defoult_title":"🔥 Subscribe Now",
+    "chek_sub":"✅ Verify",
+    "no_sub":"<b>❌ Sorry, you need to join these channels before using our bot.</b>",
+    "bot_off":"️ <b>The bot is temporarily turned off!</b>\n\n<i>The bot may be undergoing maintenance work!</i>",
+    "share":"🚀 Share",
+    "close":"❌ Cancel",
+    "start_msg":"<b>🔗 Start anonymous messages now!\n\nYour personal link:\n👉 t.me/%bot%?start=%user_key%\n\nTo start receiving messages, share this link on Telegram ● Instagram ● TikTok or any other social platform. 💬</b>",
+    "msg_me":"❌ You cannot send a message to yourself.",
+    "msg_rule":"❓ Send an anonymous message to the user\n\nWrite whatever you like here, and the user will receive the message instantly, but they won’t know who sent it.\n\n❗️You can send text, images, videos, or music.",
+    "no_user":"❌ No such user found.",
+    "send_sms":"✉️ Send a message",
+    "skip":"❌ Ignore",
+    "more_sms":"🔄 ✉️ Write Again",
+    "main_menu":"🏠 Main Menu",
+    "text_sms":"✅ Your text message has been sent anonymously.\n\nDo you want to send another message? 👇",
+    "photo_sms":"🖼 Your photo has been sent anonymously.\n\nDo you want to send another photo? 👇",
+    "video_sms":"🎥 Your video has been sent anonymously.\n\nDo you want to send another video? 👇",
+    "audio_sms":"🎵 Your music has been sent anonymously.\n\nDo you want to send more music? 👇",
+    "new_sms":"📩 You have received a new anonymous message:",
+    "no_support":"This type of message is not supported for security reasons.",
+    "change_key": "🔑 To change your referral code, click the button below or enter a new one yourself.",
+    "change_key_random": "🎲 Random",
+    "change_key_alus": "<b>❌ This referral code already exists. Please choose another one.</b>",
+    "change_key_succ": "<b>✅ Your referral code has been updated!</b>",
+    "error_msg":"✅ Thank you! Your proposal has been sent for consideration.",
+    "error_tt_msg":"💡 Here you can suggest your idea for improving our bot\n\nWrite /error Text... to send us a message.",
+    "soon":"Soon.."
 
+
+}
